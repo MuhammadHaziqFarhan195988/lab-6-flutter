@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255750505072",
+    "firebase_url": "https://tea-app-5c725.firebaseio.com",
+    "project_id": "tea-app-5c725",
+    "storage_bucket": "tea-app-5c725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255750505072:android:5cc228d712b668f3c3aab5",
+        "android_client_info": {
+          "package_name": "com.haziq.tea_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255750505072-fiuqenhb1g7fembn08l0dqdg5fpaj0d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUueJ217N6ehfvTFjGffK49aj_AiyA4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255750505072-fiuqenhb1g7fembn08l0dqdg5fpaj0d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
